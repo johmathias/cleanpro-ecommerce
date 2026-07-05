@@ -1,0 +1,9 @@
+# Ignore uploaded ID documents (private files)
+uploads/*
+
+# Keep the uploads folder itself
+!uploads/.gitkeep
+
+# Ignore system files
+.DS_Store
+Thumbs.db
